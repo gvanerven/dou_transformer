@@ -1,5 +1,4 @@
 #http://thiagomarzagao.com/2020/07/08/diario-embeddings/
-
 import os
 import requests
 from bs4 import BeautifulSoup
